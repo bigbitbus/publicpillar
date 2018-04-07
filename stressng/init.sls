@@ -1,6 +1,1 @@
-stressng:
-  lookup: 
-    install_from_source: "Nope"
-  topup:
-     make_it_happen: "workouts"
-     
+'job_file': 'salt://stressng/files/fft.stress',
