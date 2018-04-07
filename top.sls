@@ -1,4 +1,4 @@
-testtest:
+base:
    '*':
     - stressng
     - collectd
