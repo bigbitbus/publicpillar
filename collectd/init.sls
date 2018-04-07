@@ -1,4 +1,3 @@
 collectd:
   plugins:
-    default: [cpu, load, memory, swap]
-    
+    default: ['hula,hoopie,howow']
