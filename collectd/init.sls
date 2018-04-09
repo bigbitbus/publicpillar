@@ -1,3 +1,6 @@
 collectd:
   plugins:
-    default: ['hula,hoopie,howow']
+    csv:
+      DataDir: '/tmp/outputdata/collectd'
+
+      
