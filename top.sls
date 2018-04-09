@@ -2,5 +2,4 @@ base:
    '*':
     - stressng
     - collectd
-    - funstate
     
