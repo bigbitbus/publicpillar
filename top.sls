@@ -2,4 +2,5 @@ base:
    '*':
     - stressng
     - collectd
+    - fio
     
