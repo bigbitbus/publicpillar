@@ -1,6 +1,12 @@
 base:
    '*':
-    - stressng
-    - collectd
-    - fio
+     - stressng
+     - collectd
+     - fio
+fiotest1:
+   '*':
+     - fio
+     - stressng
+     - collectd
+    
     
