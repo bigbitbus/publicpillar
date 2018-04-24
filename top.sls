@@ -6,7 +6,5 @@ base:
 fiotest1:
    '*':
      - fio
-     - stressng
-     - collectd
     
     
