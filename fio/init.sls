@@ -2,4 +2,5 @@ fio:
   execute:
     lookup:
       job_file_list: 
-        - testing.job
+        - fio-rand-RW.job
+        - fio-seq-RW.job
