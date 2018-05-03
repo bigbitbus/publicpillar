@@ -1,6 +1,5 @@
 base:
    '*':
-    - stressng
     - collectd
-    - fio
+    - mtr
     
