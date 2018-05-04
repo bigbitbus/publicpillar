@@ -1,3 +1,2 @@
 mine_functions:
-    - grains.get:
-        - external_ip
+  grains.get: [external_ip]

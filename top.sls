@@ -1,5 +1,5 @@
 base:
    '*':
     - collectd
-    - mtr
+    - mtr.saltmine
     
