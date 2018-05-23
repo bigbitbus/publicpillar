@@ -8,8 +8,8 @@ jmeter:
       cmd_cli_args: '-n '
       out_dir: '/tmp/outputdata/jmeter'
       jmx_template_file': 'simpletest.jmx.tmpl'
-      num_loops: 2000
-      num_threads: 50
+      num_loops: 100
+      num_threads: 5
 
 
       
