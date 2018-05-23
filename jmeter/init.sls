@@ -7,9 +7,9 @@ jmeter:
       db_username: 'root'
       cmd_cli_args: '-n '
       out_dir: '/tmp/outputdata/jmeter'
-      jmx_template_file': 'simpletest.jmx.tmpl'
-      num_loops: 1000
-      num_threads: 50
+      jmx_template_file': 'only-read.jmx.tmpl'
+      num_loops: 10000
+      num_threads: 20
 
 
       
