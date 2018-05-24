@@ -9,4 +9,4 @@ jmx_config:
   num_threads_writers: 2
   writers_duration: 60
   num_threads_readers: 20
-  
+  readers_duration: 60
