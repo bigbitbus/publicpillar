@@ -1,10 +1,7 @@
 stressng:
-  execute:
-    lookup:
-      out_dir: '/tmp/outputdata'
+  lookup:
+    execute:
+      out_dir: '/tmp/outputdata/stressng'
       job_file_list: 
-        - cpu.stress
-        - memory.stress
-        - algorithms.stress
         - matrix.stress
-        - io.stress
+    

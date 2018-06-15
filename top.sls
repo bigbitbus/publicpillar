@@ -1,7 +1,6 @@
 base:
    '*':
-    - collectd
-    - objbench
+    - stressng
 
 
     
