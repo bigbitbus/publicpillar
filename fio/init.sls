@@ -8,6 +8,5 @@ fio:
         - Rnd-SBWH.job
         - Seq-LBRH.job
         - Seq-LBWH.job
-      runtime: 20
-      disk_file: /dev/sdd
+      runtime: 600
 
