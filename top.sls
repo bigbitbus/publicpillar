@@ -1,8 +1,9 @@
-test_diskchecker:
-  '*':
+base:
+  'testgitref:test_diskchecker':
+    - match: grain
     - fio
 
-test_cpusizer:
-  '*':
+  'testgitref:test_cpusizer':
+    - match: grain
     - stressng
     
