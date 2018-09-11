@@ -8,4 +8,4 @@ fio:
         - Rnd-SBWH.job
         - Seq-LBRH.job
         - Seq-LBWH.job
-      runtime: 15
+      runtime: 300
